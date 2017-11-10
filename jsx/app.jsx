@@ -49,8 +49,8 @@ ReactDOM.render (
         img2=""
         img3=""
         dow="null"
-        zap="Web-gamestore.github.io"
-        site="Web-gamestore.github.io"
+        zap="https://Web-gamestore.github.io"
+        site="https://Web-gamestore.github.io"
         />
         </div>
         </div>
